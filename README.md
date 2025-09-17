@@ -3,7 +3,7 @@
 
 **Desenvolvedor | Editor de Vídeos**
 
-Sou **Breno Elias**,  estudante de Engenharia de Software da UnB, apaixonado por tecnologia e desenvolvimento de sistemas. Sou **proativo, comunicativo, curioso e colaborativo**, gosto de trabalhar em equipe, aprender constantemente e transformar ideias em projetos práticos. Tenho experiência com **Python, C, HTML, CSS, JavaScript** e também atuo em **edição de vídeos e design**, sempre buscando unir criatividade, disciplina e resultados em tudo que faço.
+Sou **Breno Elias**, estudante de Engenharia de Software da UnB, apaixonado por tecnologia e desenvolvimento de sistemas. Sou **proativo, comunicativo, curioso e colaborativo**, gosto de trabalhar em equipe, aprender constantemente e transformar ideias em projetos práticos. Tenho experiência com **Python, C, HTML, CSS, JavaScript** e também atuo em **edição de vídeos e design**, sempre buscando unir criatividade, disciplina e resultados em tudo que faço.
 
 ---
 
