@@ -10,7 +10,7 @@ Sou **Breno Elias**, estudante de Engenharia de Software da UnB, apaixonado por 
 ### 🌍 Informações
 - Localização: Brasília | DF  
 - Contato: [brenoelias05@hotmail.com](mailto:brenoelias05@hotmail.com)  
-- Atualmente aprendendo: MySQL, Desenvolvimento Web  
+- Atualmente aprendendo: MySQL, Desenvolvimento Web, CPA-20 (Certificação AMBIMA)
 - Buscando colaborar em projetos
 
 ---
